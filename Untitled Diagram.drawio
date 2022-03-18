@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-18T09:38:39.470Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="cR8Ns0bNv81IJ3ixW48G" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-18T12:04:42.660Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="6Ho_t1t3LsjwBJmKNXEl" version="17.1.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="964" dy="472" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1108" dy="482" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -38,14 +38,6 @@
         <mxCell id="IkvzY1FcCG1SyXjqg-lb-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkvzY1FcCG1SyXjqg-lb-1" target="WIyWlLk6GJQsqaUBKTNV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="IkvzY1FcCG1SyXjqg-lb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkvzY1FcCG1SyXjqg-lb-1" target="IkvzY1FcCG1SyXjqg-lb-14">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="IkvzY1FcCG1SyXjqg-lb-24" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkvzY1FcCG1SyXjqg-lb-16">
-          <mxGeometry x="-0.2281" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="IkvzY1FcCG1SyXjqg-lb-1" value="Tampilan Login" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="160" y="180" width="120" height="60" as="geometry" />
         </mxCell>
@@ -65,6 +57,18 @@
         </mxCell>
         <mxCell id="IkvzY1FcCG1SyXjqg-lb-26" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkvzY1FcCG1SyXjqg-lb-17">
           <mxGeometry x="-0.079" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IkvzY1FcCG1SyXjqg-lb-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="IkvzY1FcCG1SyXjqg-lb-14" target="IkvzY1FcCG1SyXjqg-lb-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="720" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IkvzY1FcCG1SyXjqg-lb-69" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="IkvzY1FcCG1SyXjqg-lb-67">
+          <mxGeometry x="0.2183" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
